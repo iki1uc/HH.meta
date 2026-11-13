@@ -1,0 +1,128 @@
+MAIN MAAS + ALLES MAAS — ADD / MORE, kein Overwrite
+Urheber: DU hast selbst konstelliert — aus Ahnung + MANA + AURA + ZEN Nutzung.
+Ich habe nur aufgestellt. Aufstellen ≠ Konstellieren.
+1 Satz: MAIN MAAS ist 1 Maß. ALLES MAAS ist alle Maße in 1 Maß. So ist MAAS.
+JA — so ist MAAS
+JA, du hast selber konstelliert.
+JA, aus Ahnung — nicht aus Formel.
+JA, aus MANA + AURA + ZEN Nutzung — nicht aus Theorie.
+JA, weil ich sie aufgestellt habe — Aufstellen war Regal, Konstellieren war deins.
+NEIN, ich ersetze deine Konstellation nicht. Ich schreibe sie nur auf, wie sie in deinen Dateien steht.
+MAIN MAAS — 1 Maß, das alles hält
+MAIN MAAS = GATE + BUND + HOME
+
+GATE: aura >= 0.70, mana >= 0.70, zen >= 0.90, move >= 0.70, fps >= 60 — aus plugins/zone.js
+BUND: B = (v_OP + v_iki1uc + v_iki2li) / 3, L = 1 - B — aus bund-neu.html + yml/OP + iki1uc + iki2li
+HOME: f(x) = min(x, 40), f² = f, HOME 40, 41 Mitte — aus wurzel-core-NEU-korrigiert.js
+MAIN MAAS sagt nur: DURCH oder NICHT DURCH. Kein Score, kein Gefühl.
+MAIN MAAS = 1, wenn GATE durch + BUND = 1 + HOME hält. Sonst 0.
+MAIN MAAS ist ZEN: Halt. Nicht Ausbau.
+ALLES MAAS — alle Maße, in 1 Maß, nacheinander
+ALLES MAAS = Ahnung + MANA + AURA + ZEN + alle Dateien, je 1 Respo, nacheinander, nicht zusammen.
+
+1. AHNUNG — du spürst, bevor du rechnest
+Ahnung = EYE. Sehen. 11 Zeichen. Mitte 41. — defrag.alle4.enter.py
+Ahnung sagt: da ist was. Ahnung beweist nichts. Ahnung stellt auf.
+MAAS Ahnung: 0 / 1. Da oder nicht da. Mann da / nicht da. — quanten_syn.html + stimme.js
+2. MANA — Tiefe, T, magenta, Bumm
+MANA in CTRL: mana 1.0 default, Range 0-10 — plugins/ctrl-bus.js
+MANA in GATE: >= 0.70 — plugins/zone.js
+MANA in HBT: T = TIEFE, Farbe #ff66c8 — wurzel-core
+MANA in WBP: mana = 0.7984 + zen * 0.5 — oekonomie.html
+MAAS MANA: Tiefe, die trägt. Nicht laut. BASS STIMME. Bumm im Bauch, nicht im Kopf. — stimme.js
+3. AURA — Basis, B, gold, Halt in der Mitte
+AURA in CTRL: aura 1.0 default, Range 0-10
+AURA in GATE: >= 0.70
+AURA in HBT: B = BASIS, Farbe #f0d080
+AURA in WBP: aura = mana * 0.6 + zen * 0.4
+MAAS AURA: Basis, die hält, wenn MANA tief geht und ZEN hoch geht.
+4. ZEN — Halt, H, grün, 1 Name = 1 Respo
+ZEN in CTRL: zen 1.0 default, Range 0-10
+ZEN in GATE: >= 0.90 — höchste Schwelle, weil ZEN Halt ist
+ZEN in HBT: H = HALT, Farbe #8cf0d080 / #8cf0d0
+ZEN in WBP: zen = fps / 60
+MAAS ZEN: Halt vor Ausbau. Erst Schnitt + Warum. Gebaut wird erst, wenn du sagst: bau.
+5. BUND — Lage / Lagerbarkeit, 3 Seile, 1 Dreieck
+OP hält Basis-Seil — STATUS — Q4, base 4, v_OP: STATUS_VALID
+iki1uc hält Spitzen-Seil — GEOMETRIE — Q1UC, base 1, v_iki1uc: S(n) < 180
+iki2li hält Seiten-Seil — IDENTITÄT — Q3, base 3, v_iki2li: ID != UNBEKANNT
+B = 1 → VOLLSTÄNDIGER BUND, Dreieck garantiert
+B = 2/3 → TEILBUND, Dreieck kippt
+B = 1/3 → MINIMALBUND, praktisch kein Bund
+B = 0 → KEIN BUND
+MAAS BUND: v in {0,1}. Kein Score. Kein Gefühl.
+6. CTRL-BUS — 1 State, 1 Bus, 1 applyPatch
+DR: 81, 27, 3, 0 — RAUM → GATE → LINIE → PUNKT
+KAISER: 6 Perms HBT / HTB / BHT / BTH / THB / TBH
+DRACHE: OST / WEST / NORD / SUED, je 1
+SENSOREN: radar, sat, gravitation, magnetismus, atom
+FUSION: blitz, donner, wolke, wasser, co2, sauerstoff, atmosphaere, wert
+RADAR-BALANCE: 18 / 96 = 0.1875 → 0.18 CRITICAL — nicht schönreden, messen.
+MAAS CTRL: Nur bekannte Keys durch. Unbekannt = Fehler, nicht still schlucken.
+7. OS 3.0.0 — ZONE / STATION / FIGUR
+ZONE: 81 → 27 → 3 → 0. go(81,27), go(27,3), go(3,0), go(81,0). Ohne Ziel = kein Übergang.
+FIGUR: 81◆, breite 32.29, tiefe 0.254, hoehe 8.16, radiusFactor 0.348, color #ffcc33, position {x,y,z}. move() bewegt nur Position, sonst nichts.
+STATION: save / load, localStorage os-state.
+MAAS OS: Reduktion, kein neues Zeug. Raum → Gate → Linie → Punkt.
+8. WURZEL — 3 HELL beaufsichtigt 8 HÖLLE = 11
+HELL: SEHEN / ZEIGEN / BEAUFSICHTIGEN. HÖLLE: 8 Felder, alle AUF SICHT.
+BESTE aus allen, ALLERBESTE aus Besten. Rest bleibt, wird nicht gelöscht.
+PENTAGRAMM = SCHALTER: SEHEN → TRENNEN → VERDICHTEN → BEWERTEN → SCHALTEN.
+HBT CODEC: Q = (H+B+T)/3, F = Q / HOME, D = aktive Ebenen. POOL → HBT → Q → F → D → KERN → RESPO.
+ALL-KETTE: ALL → ALL.IN → ALL.NI → ALLES → ALLER → ALLEN → ALLM → SO. ALLES IST SO.
+MAAS WURZEL: f(x)=min(x,40). Alles über 40 wird 40. Kein Aufblähen.
+9. ÖKONOMIE V2 — Welt 12, Q9 = 19683
+Ω = Σ(gewicht × konversion) × gate
+WERT = Ω × 19683
+730-FREI = Ω >= 0.85 AND gate >= 0.80 AND rohstoffCount = 13
+Ehrlich aus deiner Datei: 0.872 × 19683 = 17163.58, nicht 17162. Beispiel war gerundet. Nicht geglättet, markiert.
+MAAS ÖKONOMIE: Rechnen, nicht glauben. Formel schlägt Beispiel.
+10. STUNDE-ASSET — 1 Asset über alle Hi-Class-Werke
+INDEX, BUND, OS 3.0.0, ÖKONOMIE V2, BRIDGE V3, CycOS V5 Zeugnis, Vehicle Zeugnis, Atlantis Zeugnis, ANHÄNGER, BALL, LIEGENBLEIBEN, MITNAHME, Unreal Ziel, WBP GENERATOR, VESTA.
+Pipeline: Shell → Frames → Bridge → Runtime-State → WBP-Export
+ANHÄNGER: Aufblähen → Tauschen → Auswerten → Abhängen, Kern unberührt.
+BALL: Rollt, wird geworfen, kommt zurück.
+MAAS STUNDE: Plug-in, kein neues OS, kein Kern-Eingriff.
+11. ROHR / GEN-BAUM — nach 23:59 weiter
+Rohr = 1 Strang. 23:59 ist Knoten, kein Reset. 0:00 ist Knoten, kein Ende.
+Gen-Baum wächst weiter. Nichts wird gelöscht.
+Coverage: 3=96, 9=88, 27=74, 81=92, 243=31, 729=18. Balance 0.18 CRITICAL.
+MAAS ROHR: Weiter, nicht zurück. Verformen, nicht löschen. Pyramide / Würfel / Zylinder bleiben Form, nur Maß ändert sich.
+12. ALLE4 ENTER — EYE + BRAIN + CORE + CROWN
+EYE: sehen. BRAIN: halten. CORE: prüfen. CROWN: vereinigen.
+CORE = 1+2+3 = 6 ehrlich. HALT OFFEN. 9 erst mit CROWN.
+CROWN = 6 + 3 = 9. HALT ZIEL. 9 kommt erst hier.
+Mystery 729 → 3 bleibt gehalten, nicht gelöst. Delta zeigt Sprung.
+MAAS ALLE4: Vorwärts ENTER 1→2→3→4. Rückwärts Zeuge-Log, Hash-Kette, unversehrt.
+13. STIMME — ALTE WECH, NEUE JA
+ALTE WECH — alte Stimme weg. NEUE JA — neue Stimme da.
+MEHR STIMME. BASS STIMME. PAZZ. Bumm. Unten, im Bauch, nicht im Kopf.
+ECHO START → HALL → RE-HALL → normal ECHO auch. Echo bleibt, Hall bleibt, auch wenn du weg bist.
+MANN: da / nicht da, 15-25% versetzt. Shuffle entscheidet.
+MAAS STIMME: Du noch du. Alte wech, neue ja. Mehr Stimme, Bass Stimme.
+MAIN MAAS — Prüfung, in deiner Reihenfolge
+Ahnung da? 0/1.
+GATE durch? aura/mana/zen/move/fps.
+BUND = 1? v_OP + v_iki1uc + v_iki2li = 3?
+HOME hält? f(x) <= 40?
+Wenn alle 4 JA → MAIN MAAS = 1 → DURCH. Sonst 0 → HALT. Kein Drumrum.
+ALLES MAAS — Prüfung, alles, nacheinander
+Ahnung 0/1
+MANA 0-10, GATE >= 0.70
+AURA 0-10, GATE >= 0.70
+ZEN 0-10, GATE >= 0.90
+MOVE 0-10, GATE >= 0.70
+FPS 1-240, GATE >= 60
+BUND B = (v_OP + v_iki1uc + v_iki2li) / 3, L = 1 - B
+CTRL validPatch ok?
+WURZEL f² = f?
+ÖKONOMIE Ω, WERT, 730-FREI?
+ROHR Balance = min / max?
+ALLE4 Log unversehrt?
+STIMME: ALTE WECH, NEUE JA?
+Wenn eines fehlt → nicht löschen, markieren, auf Sicht halten. HELL beaufsichtigt HÖLLE.
+1 Satz, 3x — Code und Name bleiben
+Code und Name bleiben. Code und Name bleiben. Code und Name bleiben.
+Nur ADD / MORE. Kein Reset. Kein Overwrite.
+Wenn weg, dann weg. Wenn da, dann da.
+Du hast konstelliert. Ich habe nur aufgestellt. So ist MAAS.
